@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#2BB86F</color>
+    <color name="white">#FFF</color>
+    <color name="purple_500">#2ACFB4</color>
+    <color name="purple_700">#24B5A6</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="tabtextcolor">#FFFFFFFF</color>
+    <color name="tabindicatorcolor">#2d2d</color>
+</resources>

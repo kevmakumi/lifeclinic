@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848960516175",
+    "project_id": "splashapplication-22be1",
+    "storage_bucket": "splashapplication-22be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848960516175:android:6aa582bdc2e75be285ba3a",
+        "android_client_info": {
+          "package_name": "com.example.splashapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848960516175-9pe8c46tcbb0ami185b30vv11vnb05lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHp7-vWrZAFBJ-c5BS9Y1ty2fzyFwa8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848960516175-9pe8c46tcbb0ami185b30vv11vnb05lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
